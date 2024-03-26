@@ -1,0 +1,20 @@
+body{
+  text-align: center;
+  background-color:#FFE4CC ;
+}
+
+img{
+  border-radius: 10%;
+}
+
+a{
+  text-decoration: none;
+}
+
+p{
+  font-size: 24px;
+}
+
+li{
+  list-style-type: none;
+}
